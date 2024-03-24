@@ -11,43 +11,43 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['527299350963', '👑 Monovan - Creador 👑', true],
-  ['527299350963', '💫 Monovan - Collaborator 1 💫', true],
-  ['527299350963', '💫 Monovan - Collaborator 2 💫', true],
-  ['527299350963', '💫 Monovan - Collaborator 3 💫', true],
-  ['527299350963', '💫 Monovan - Collaborator 4 💫', true],
-  ['527229350963', '💫 Monovan - Collaborator 5 💫', true],
-  ['527299350963', '💫 Monovan - Collaborator 6 💫', true],
-  ['527299350963', '💫 Monovan - Rey Endymion 💫', false],
-  ['527299350963', '💫 Monovan - Collaborator 8 💫', true],
-  ['527299350963','💫 Monovan - Tester Fabri115💫', true],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'], 
-  ['527299350963'],  
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'], 
-  ['527299350963'], 
-  ['527299350963'],
-  ['527299350963']
+  ['525636167834', '👑 Yiro shishigang - Creador 👑', true],
+  ['525636167834', '💫 Yiro shishigang - Collaborator 1 💫', true],
+  ['525636167834', '💫 Yiro shishigang - Collaborator 2 💫', true],
+  ['525636167834', '💫 Yiro shishigang - Collaborator 3 💫', true],
+  ['525636167834', '💫 Yiro shishigang - Collaborator 4 💫', true],
+  ['525636167834', '💫 Yiro shishigang - Collaborator 5 💫', true],
+  ['525636167834', '💫 Yiro shishigang - Collaborator 6 💫', true],
+  ['525636167834', '💫 Yiro shishigang - Rey Endymion 💫', false],
+  ['525636167834', '💫 Yiro shishigang - Collaborator 8 💫', true],
+  ['525636167834','💫 Yiro shishigang - Tester Fabri115💫', true],
+  ['525636167834'],
+  ['525636167834'],
+  ['525636167834'],
+  ['525636167834'],
+  ['525636167834'],
+  ['525636167834'],
+  ['525636167834'],
+  ['525636167834'], 
+  ['525636167834'],  
+  ['525636167834'],
+  ['525636167834'],
+  ['525636167834'],
+  ['525636167834'], 
+  ['525636167834'], 
+  ['525636167834'],
+  ['525636167834']
 ];
 
-global.suittag = ['527299350963'];
-global.prems = ['527299350963'];
+global.suittag = ['525636167834'];
+global.prems = ['525636167834'];
 
-global.packname = 'Monovan';
-global.author = 'Monovan';
-global.wm = 'Monovan ';
-global.titulowm = 'Monovan ';
-global.titulowm2 = `Monovan `
-global.igfg = 'Monovan ';
+global.packname = 'Yiro shishigang';
+global.author = 'Yiro shishigang';
+global.wm = 'Yiro shishigang ';
+global.titulowm = 'Yiro shishigang ';
+global.titulowm2 = `Yiro shishigang `
+global.igfg = 'Yiro shishigang ';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -68,15 +68,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMonovan-Bot`;
-global.gt = 'Monovan-Bot ';
-global.mysticbot = 'Monovan-Bot ';
+global.wm2 = `${dia} ${fecha}\nYiros bot`;
+global.gt = 'Yiros bot';
+global.mysticbot = 'Yiros bot';
 global.md = ' ';
 global.mysticbot = ' ';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '527299350963';
+global.nomorown = '525636167834';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
